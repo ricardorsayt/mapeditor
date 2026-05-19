@@ -1,0 +1,128 @@
+RELATORIO v51 RAW MASTER REAL
+Base usada: BASE_ATUAL_PROJETO_ATUALIZADA_v50_raw_others_cleanup_OK_REAL(2).zip
+Arquivo alterado: raw_palette.xml
+Escopo: somente Raw Palette
+
+IDs classificados pela lista enviada: 1782
+Categorias afetadas/criadas: 31
+Categoria criada/garantida: Monstro Item -> 23780-23781
+Exceções aplicadas: 22911 e 22918 -> Escadas / Hole / Rope Spot; 23396-23407 tratado como Borda (corrigindo provável typo 233407).
+
+Categorias antigas consolidadas:
+- Bordas -> Borda
+- Montanhas -> Montanha
+- Bonecos -> Boneco
+- Mobilias -> Mobilia
+- Depots -> Depot
+- Piso -> Piso / Ground
+- Piso / Chão / Ground -> Piso / Ground
+- Hole / Rope Spot / Escadas / Buraco -> Escadas / Hole / Rope Spot
+- Sofá / Cadeira / Banco -> Sofa / Cadeira / Banco
+- Mesa / Banco -> Sofa / Cadeira / Banco
+- Pilar / Poste / Lâmpada -> Pilar / Poste
+- Helmet / Legs / Armor / Boots / Shield -> Armor / Legs / Helmet / Boots / Shield
+
+Falhas de validação nos IDs solicitados: 0
+Duplicados totais restantes na Raw Palette: 266
+- 1990: ['Teleport', 'Backpack / Bag']
+- 2035: ['Lixo', 'Decoração Interna']
+- 2100: ['Decoração Interna', 'Nature / Arvore / Flor / Planta']
+- 2122: ['Moeda / Joia', 'Item Especial']
+- 2127: ['Amulet / Ring', 'Moeda / Joia']
+- 2134: ['Amulet / Ring', 'Moeda / Joia']
+- 2137: ['Moeda / Joia', 'Food']
+- 2140: ['Amulet / Ring', 'Moeda / Joia']
+- 2141: ['Amulet / Ring', 'Moeda / Joia']
+- 2174: ['Agrupavel', 'Item Especial']
+- 2176: ['Agrupavel', 'Item Especial']
+- 2177: ['Agrupavel', 'Item Especial']
+- 2178: ['Agrupavel', 'Item Especial']
+- 2192: ['Agrupavel', 'Item Especial']
+- 2193: ['Agrupavel', 'Item Especial']
+- 2194: ['Agrupavel', 'Item Especial']
+- 3956: ['Agrupavel', 'Revisão Geral']
+- 4850: ['Agrupavel', 'Revisão Geral']
+- 5015: ['Agrupavel', 'Revisão Geral']
+- 5092: ['Moeda / Joia', 'Revisão Geral']
+- 5123: ['Moeda / Joia', 'Revisão Geral']
+- 5129: ['Boneco', 'Decoração Interna']
+- 5130: ['Boneco', 'Decoração Interna']
+- 5131: ['Backpack / Bag', 'Decoração Interna']
+- 5132: ['Backpack / Bag', 'Decoração Interna']
+- 5133: ['Backpack / Bag', 'Decoração Interna']
+- 5134: ['Backpack / Bag', 'Decoração Interna']
+- 5135: ['Backpack / Bag', 'Decoração Interna']
+- 5136: ['Backpack / Bag', 'Decoração Interna']
+- 5547: ['Amulet / Ring', 'Revisão Geral']
+- 5550: ['Moeda / Joia', 'Revisão Geral']
+- 5551: ['Amulet / Ring', 'Revisão Geral']
+- 5570: ['Moeda / Joia', 'Revisão Geral']
+- 5571: ['Moeda / Joia', 'Revisão Geral']
+- 5572: ['Moeda / Joia', 'Revisão Geral']
+- 5573: ['Moeda / Joia', 'Revisão Geral']
+- 5600: ['Amulet / Ring', 'Revisão Geral']
+- 5601: ['Amulet / Ring', 'Revisão Geral']
+- 7514: ['Amulet / Ring', 'Revisão Geral']
+- 7515: ['Amulet / Ring', 'Revisão Geral']
+- 7516: ['Amulet / Ring', 'Revisão Geral']
+- 7517: ['Amulet / Ring', 'Revisão Geral']
+- 7518: ['Amulet / Ring', 'Revisão Geral']
+- 7519: ['Amulet / Ring', 'Revisão Geral']
+- 7520: ['Amulet / Ring', 'Revisão Geral']
+- 7522: ['Amulet / Ring', 'Revisão Geral']
+- 7523: ['Amulet / Ring', 'Revisão Geral']
+- 7524: ['Amulet / Ring', 'Revisão Geral']
+- 7525: ['Amulet / Ring', 'Revisão Geral']
+- 7526: ['Amulet / Ring', 'Revisão Geral']
+- 7527: ['Amulet / Ring', 'Revisão Geral']
+- 7528: ['Amulet / Ring', 'Revisão Geral']
+- 7529: ['Amulet / Ring', 'Revisão Geral']
+- 7531: ['Amulet / Ring', 'Revisão Geral']
+- 7535: ['Amulet / Ring', 'Revisão Geral']
+- 7536: ['Moeda / Joia', 'Revisão Geral']
+- 7537: ['Moeda / Joia', 'Revisão Geral']
+- 7538: ['Moeda / Joia', 'Revisão Geral']
+- 7539: ['Moeda / Joia', 'Revisão Geral']
+- 7540: ['Moeda / Joia', 'Revisão Geral']
+- 7541: ['Moeda / Joia', 'Revisão Geral']
+- 7542: ['Moeda / Joia', 'Revisão Geral']
+- 7543: ['Moeda / Joia', 'Revisão Geral']
+- 7544: ['Moeda / Joia', 'Revisão Geral']
+- 7545: ['Moeda / Joia', 'Revisão Geral']
+- 7546: ['Moeda / Joia', 'Revisão Geral']
+- 7547: ['Moeda / Joia', 'Revisão Geral']
+- 7548: ['Moeda / Joia', 'Revisão Geral']
+- 7549: ['Moeda / Joia', 'Revisão Geral']
+- 7550: ['Moeda / Joia', 'Revisão Geral']
+- 7551: ['Moeda / Joia', 'Revisão Geral']
+- 7552: ['Moeda / Joia', 'Revisão Geral']
+- 7553: ['Moeda / Joia', 'Revisão Geral']
+- 7554: ['Amulet / Ring', 'Revisão Geral']
+- 7557: ['Amulet / Ring', 'Revisão Geral']
+- 7558: ['Amulet / Ring', 'Revisão Geral']
+- 7559: ['Amulet / Ring', 'Revisão Geral']
+- 7560: ['Amulet / Ring', 'Revisão Geral']
+- 7561: ['Amulet / Ring', 'Revisão Geral']
+- 7562: ['Amulet / Ring', 'Revisão Geral']
+- 7563: ['Amulet / Ring', 'Revisão Geral']
+- 7564: ['Amulet / Ring', 'Revisão Geral']
+- 7565: ['Amulet / Ring', 'Revisão Geral']
+- 7566: ['Amulet / Ring', 'Revisão Geral']
+- 7569: ['Moeda / Joia', 'Revisão Geral']
+- 7570: ['Moeda / Joia', 'Revisão Geral']
+- 7571: ['Moeda / Joia', 'Revisão Geral']
+- 7572: ['Amulet / Ring', 'Revisão Geral']
+- 7589: ['Amulet / Ring', 'Revisão Geral']
+- 7590: ['Amulet / Ring', 'Revisão Geral']
+- 7591: ['Amulet / Ring', 'Revisão Geral']
+- 7592: ['Amulet / Ring', 'Revisão Geral']
+- 7593: ['Amulet / Ring', 'Revisão Geral']
+- 7594: ['Amulet / Ring', 'Revisão Geral']
+- 7595: ['Amulet / Ring', 'Revisão Geral']
+- 7596: ['Amulet / Ring', 'Revisão Geral']
+- 7597: ['Amulet / Ring', 'Revisão Geral']
+- 7598: ['Amulet / Ring', 'Revisão Geral']
+- 7599: ['Amulet / Ring', 'Revisão Geral']
+- 7600: ['Amulet / Ring', 'Revisão Geral']
+Itens ainda em Others após remoção dos IDs da lista: 4226
+Others IDs restantes: 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399

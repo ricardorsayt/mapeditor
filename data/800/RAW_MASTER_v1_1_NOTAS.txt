@@ -1,0 +1,32 @@
+RAW MASTER v1.1 - Notas de identificacao
+
+Base: v12 RAW MASTER v1
+Objetivo desta revisao:
+- Ler os blocos da raw_palette.xml cruzando com os nomes reais do items.xml
+- Ajustar nomes das categorias para refletir melhor o conteudo real
+- Nao mover IDs entre categorias de forma agressiva, para evitar quebrar o editor
+
+Resumo das leituras mais importantes:
+- Paredes: contem principalmente ice wall / broken ice wall / buttress. Por isso virou 'Paredes de Gelo'.
+- Arquitetura: contem fences, railings, pillars, bars, obelisks, snake walls e pagodas.
+- Escadas: contem stairs, ramps, holes, trapdoors, ladders e alguns helpers de transicao.
+- Pontes: contem drawbridge, rope bridge, rope railings e short pillars.
+- Telhados: contem flat roof, tiled roof, wooden roof, dried grass roof e pecas de acesso.
+- Montanhas: contem mountain e sandstone.
+- Natureza: contem pedras, arvores, lianas, cactus, debris, fallen trees, mossy walls e vegetacao variada.
+- Exterior: contem fountains, wells, graves, coffins, campfires, altars, lamps e estruturas externas.
+- Interior - Mesas / Camas / Balcoes: contem tables, counters, beds, cots, couches, bookcases, casks, ovens e pass-throughs.
+- Interior - Cadeiras / Armarios / Decoracao: contem chairs, drawers, dresser, locker, mirrors, trunks, statues e pequenas pecas internas.
+- Estatuas / Monumentos / Ornamentos: contem statues, monuments, pedestals, gargoyles, lizard parts e wells decorativos.
+- Campos Magicos / Efeitos: contem fire, poison gas, energy field, magic wall, smoke, ashes e efeitos similares.
+- Barcos / Navios / Cabine: contem ship pieces, ship railing, ship cabin wall, sails, mast, doors e steering wheel.
+- Quest / Itens Unicos: contem muitos itens unicos de quests e objetos especiais de lore.
+- Especiais / Mecanismos / Helpers: contem helpers tecnicos, levers, carvings, pisos especiais e pecas de funcao mista.
+- Containers / Moveis / Miscelanea: categoria ainda precisa de triagem futura, pois mistura generic box, quest box, bookshelf, wardrobe, sofa, sarcophagus e outros objetos.
+- Revisao / Soltos: categoria de sobras que deve ser revisada em fases futuras.
+
+Recomendacao para o proximo passo:
+1. Triar 'Natureza / Rochas / Arvores' em subgrupos mais finos.
+2. Triar 'Exterior / Pocos / Cemiterio / Altares'.
+3. Triar 'Containers / Moveis / Miscelanea'.
+4. Depois promover somente os grupos bem entendidos para Terrain ou Doodad.
