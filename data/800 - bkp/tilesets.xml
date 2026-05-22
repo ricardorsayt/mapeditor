@@ -1,220 +1,594 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <materials>
 	<tileset name="Cave">
 		<terrain>
-			<brush name="void"/>
-			<brush name="lava"/>
-			<brush name="walkable lava"/>
-			<brush name="clear water"/>
-			<brush name="earth"/>
-			<brush name="dirt"/>
-			<brush name="light dirt"/>
-			<brush name="cave"/>
-			<brush name="cave hole"/>
-			<brush name="cave ropespot"/>
-			<brush name="cave small hole"/>
-			<brush name="cave pickhole"/>
+			<brush name="void" />
+			<brush name="lava" />
+			<brush name="walkable lava" />
+			<brush name="clear water" />
+			<brush name="earth" />
+			<brush name="dirt" />
+			<brush name="light dirt" />
+			<brush name="cave" />
+			<item id="5602" />
+			<brush name="cave hole" />
+			<brush name="cave ropespot" />
+			<brush name="cave small hole" />
+			<brush name="cave pickhole" />
 		</terrain>
 	</tileset>
-
-	<tileset name="Nature">
+	<tileset name="Natureza">
 		<terrain>
-			<brush name="sea"/>
-			<brush name="walkable sea"/>
-			<brush name="swamp"/>
-			<brush name="dark swamp"/>
-			<brush name="tar pit"/>
-			<brush name="mountain"/>
-			<brush name="mountain ground"/>
-			<brush name="mountain top ground"/>
-			<brush name="rocky ground"/>
-			<brush name="white gravel"/>
-			<brush name="jungle grass"/>
-			<brush name="grass"/>
-			<brush name="grass closed stone pile"/>
-			<brush name="grass pitfall"/>
-			<brush name="grass pitfall (always open)"/>
-			<brush name="jungle dirt"/>
-			<brush name="dirt"/>
-			<brush name="light dirt"/>
-			<brush name="snow"/>
-			<brush name="ice"/>
-			<brush name="dry earth"/>
-			<brush name="sand"/>
-			<brush name="sand closed stone pile"/>
-			<brush name="ramp"/>
-			<brush name="bamboo ramp"/>
+			<brush name="sea" />
+			<brush name="walkable sea" />
+			<brush name="swamp" />
+			<brush name="dark swamp" />
+			<brush name="tar pit" />
+			<brush name="mountain" />
+			<brush name="mountain ground" />
+			<brush name="mountain top ground" />
+			<brush name="rocky ground" />
+			<brush name="white gravel" />
+			<brush name="jungle grass" />
+			<brush name="grass" />
+			<brush name="grass closed stone pile" />
+			<brush name="grass pitfall" />
+			<brush name="grass pitfall (always open)" />
+			<brush name="jungle dirt" />
+			<brush name="dirt" />
+			<brush name="light dirt" />
+			<brush name="snow" />
+			<brush name="ice" />
+			<brush name="dry earth" />
+			<brush name="sand" />
+			<brush name="sand closed stone pile" />
+			<brush name="ramp" />
+			<brush name="bamboo ramp" />
 		</terrain>
 	</tileset>
-
-	<tileset name="Roofs">
+	<tileset name="Telhado">
 		<terrain>
-			<brush name="flat roof"/>
-			<item id="924"/>
-			<brush name="brown bamboo roof"/>
-			<brush name="brick roof, left"/>
-			<brush name="brick roof, vertical"/>
-			<brush name="brick roof, right"/>
-			<brush name="brick roof, up"/>
-			<brush name="brick roof, horizontal"/>
-			<brush name="brick roof, down"/>
-			<brush name="wooden roof, up"/>
-			<brush name="wooden roof, horizontal"/>
-			<brush name="wooden roof, down"/>
-			<brush name="wooden roof, left"/>
-			<brush name="wooden roof, vertical"/>
-			<brush name="wooden roof, right"/>
+			<brush name="flat roof" />
+			<item id="924" />
+			<brush name="brown bamboo roof" />
+			<brush name="brick roof, left" />
+			<brush name="brick roof, vertical" />
+			<brush name="brick roof, right" />
+			<brush name="brick roof, up" />
+			<brush name="brick roof, horizontal" />
+			<brush name="brick roof, down" />
+			<brush name="wooden roof, up" />
+			<brush name="wooden roof, horizontal" />
+			<brush name="wooden roof, down" />
+			<brush name="wooden roof, left" />
+			<brush name="wooden roof, vertical" />
+			<brush name="wooden roof, right" />
 		</terrain>
 	</tileset>
-
 	<tileset name="Sea">
 		<terrain>
-			<brush name="sea"/>
-			<brush name="walkable sea"/>
-			<brush name="drawbridge"/>
-			<brush name="ship cabin wall"/>
-			<brush name="ship railing"/>
-			<brush name="rudder of the boat"/>
-			<brush name="steering wheel"/>
-			<brush name="fishing boat"/>
-			<brush name="big transport ship"/>
-			<brush name="big ship (alt)"/>
+			<brush name="sea" />
+			<brush name="walkable sea" />
+			<brush name="drawbridge" />
+			<brush name="ship cabin wall" />
+			<brush name="ship railing" />
+			<brush name="rudder of the boat" />
+			<brush name="steering wheel" />
+			<brush name="fishing boat" />
+			<brush name="big transport ship" />
+			<brush name="big ship (alt)" />
+			<item id="10336" />
 		</terrain>
 	</tileset>
-
-	<tileset name="Snow">
+	<tileset name="Neve">
 		<terrain>
-			<brush name="sea"/>
-			<brush name="walkable sea"/>
-			<brush name="snow"/>
-			<brush name="ice"/>
-			<brush name="ramp"/>
-			<brush name="mountain"/>
-			<brush name="mountain ground"/>
-			<brush name="mountain top ground"/>
-			<brush name="rocky ground"/>
-			<brush name="dirt"/>
-			<brush name="ice closed stone pile"/>
-			<brush name="hole in the ice"/>
-
-			<item id="486"/>
+			<brush name="sea" />
+			<brush name="walkable sea" />
+			<brush name="snow" />
+			<brush name="ice" />
+			<brush name="ramp" />
+			<brush name="mountain" />
+			<brush name="mountain ground" />
+			<brush name="mountain top ground" />
+			<brush name="rocky ground" />
+			<brush name="dirt" />
+			<brush name="ice closed stone pile" />
+			<brush name="hole in the ice" />
+			<item id="486" />
+			<item id="9385" />
+			<item id="9792" />
+			<item id="9805" />
+			<item id="10606" />
+			<item id="10968" />
+			<item id="10969" />
+			<item id="10982" />
+			<item id="10983" />
+			<item id="10984" />
+			<item id="10985" />
+			<item id="10986" />
+			<item id="10987" />
+			<item id="10988" />
+			<item id="10989" />
+			<item id="10990" />
+			<item id="10991" />
+			<item id="10992" />
+			<item id="11033" />
+			<item id="11049" />
+			<item id="9806" />
+			<item id="9386" />
+			<item id="10754" />
+			<item id="10755" />
+			<item id="10756" />
+			<item id="10757" />
+			<item id="10758" />
+			<item id="10759" />
+			<item id="10760" />
 		</terrain>
 	</tileset>
-
-	<tileset name="Stairs">
+	<tileset name="Snow / Structures">
 		<terrain>
-			<!-- sewer grate -->
-			<item id="430"/>
-
-			<!-- universal -->
-			<brush name="trapdoor ladder down"/>
-			<brush name="wooden ladder hole"/>
-			<brush name="trapdoor down"/>
-			<brush name="stairs down"/>
-
-			<!-- ladder -->
-			<item id="1386"/>
-
-			<!-- wooden floor -->
-			<brush name="wooden ladder trapdoor"/>
-			<brush name="wooden ladder hole 2"/>
-			<brush name="wooden trapdoor"/>
-			<brush name="stairs down 2"/>
-
-			<!-- ladder -->
-			<item id="3678"/>
-
-			<!-- bamboo trapdoors -->
-			<item id="3135"/>
-			<item id="3136"/>
-			<item id="3137"/>
-			<item id="3138"/>
-
-			<!-- stairs -->
-			<item id="1385"/>
-
-			<!-- tile trapdoors -->
-			<brush name="white stone trapdoor"/>
-			<brush name="white stone stairs"/>
-			<brush name="gray stone trapdoor"/>
-			<brush name="gray stone stairs"/>
-
-			<!-- teleport -->
-			<item id="1387"/>
-
-			<!-- stairs cont -->
-			<brush name="black stone trapdoor"/>
-			<brush name="black stone stairs"/>
-
-			<!-- stairs -->
-			<brush name="banuta stairs"/>
-			<brush name="stone stairway (ground)"/>
-
-			<!-- teleport -->
-			<item id="1397"/>
-
-			<!-- mountain ramp down -->
-			<item id="476"/>
-			<item id="479"/>
-			<item id="475"/>
-			<item id="480"/>
-
-			<!-- sandstone -->
-			<brush name="pyramid ramp"/>
-			<brush name="pyramid corner"/>
-			<brush name="sandstone ropespot"/>
-			<brush name="open sandstone trapdoor"/>
-			<brush name="sandstone trapdoor"/>
-
-			<!-- bamboo -->
-			<brush name="bamboo ramp"/>
+			
 		</terrain>
 	</tileset>
-
+	<tileset name="Snow / Furniture">
+		<terrain>
+			<item id="10888" />
+			<item id="10889" />
+			<item id="10890" />
+			<item id="10891" />
+			<item id="10892" />
+			<item id="10893" />
+			<item id="10894" />
+			<item id="10895" />
+			<item id="10896" />
+			<item id="10897" />
+			<item id="10898" />
+			<item id="10899" />
+			<item id="10900" />
+			<item id="10901" />
+			<item id="10887" />
+			<item id="11117" />
+			<item id="11118" />
+			<item id="11119" />
+			<item id="11120" />
+			<item id="11132" />
+			<item id="11133" />
+		</terrain>
+	</tileset>
+	<tileset name="Snow / Decoration">
+		<terrain>
+			<item id="7498" />
+			<item id="8090" />
+			<item id="8091" />
+			<item id="8105" />
+			<item id="10840" />
+			<item id="10841" />
+			<item id="10842" />
+			<item id="10843" />
+			<item id="10844" />
+			<item id="10845" />
+			<item id="10846" />
+			<item id="10847" />
+			<item id="10848" />
+			<item id="10849" />
+			<item id="10850" />
+			<item id="10851" />
+			<item id="10852" />
+			<item id="10853" />
+			<item id="10854" />
+			<item id="10855" />
+			<item id="10856" />
+			<item id="10857" />
+			<item id="10858" />
+			<item id="10859" />
+			<item id="10860" />
+			<item id="10861" />
+			<item id="10862" />
+			<item id="10863" />
+			<item id="10864" />
+			<item id="10865" />
+			<item id="10866" />
+			<item id="10867" />
+			<item id="10868" />
+			<item id="10869" />
+			<item id="10870" />
+			<item id="10871" />
+			<item id="10872" />
+			<item id="10873" />
+			<item id="10874" />
+			<item id="10875" />
+			<item id="10876" />
+			<item id="10877" />
+			<item id="10878" />
+			<item id="10879" />
+			<item id="10880" />
+			<item id="10881" />
+			<item id="10882" />
+			<item id="10883" />
+			<item id="10884" />
+			<item id="10885" />
+			<item id="10886" />
+			<item id="10909" />
+			<item id="10910" />
+			<item id="10906" />
+			<item id="11067" />
+			<item id="11068" />
+			<item id="11069" />
+			<item id="11070" />
+			<item id="11079" />
+		</terrain>
+	</tileset>
+	<tileset name="Sea / Walls">
+		<terrain>
+			<item fromid="10173" toid="10207" />
+			<item fromid="10220" toid="10225" />
+			<item fromid="10363" toid="10404" />
+			<item fromid="10232" toid="10248" />
+			<item id="8800" />
+		</terrain>
+	</tileset>
+	<tileset name="Sea / Decoration">
+		<terrain>
+			<item fromid="10226" toid="10231" />
+			<item fromid="10249" toid="10260" />
+			<item fromid="10269" toid="10282" />
+			<item fromid="10288" toid="10335" />
+			<item fromid="10337" toid="10347" />
+			<item fromid="10405" toid="10410" />
+			<item fromid="6674" toid="6677" />
+			<item fromid="7125" toid="7128" />
+			<item id="7163" />
+			<item id="7167" />
+			<item id="7506" />
+		</terrain>
+	</tileset>
+	<tileset name="Borda">
+		<terrain>
+			<item id="8893" />
+			<item id="8894" />
+			<item id="8895" />
+			<item id="8896" />
+			<item id="8897" />
+			<item id="8898" />
+			<item id="8901" />
+			<item id="8902" />
+			<item id="8903" />
+			<item id="8904" />
+			<item id="8905" />
+			<item id="8906" />
+			<item id="8967" />
+			<item id="8968" />
+			<item id="8969" />
+			<item id="8970" />
+			<item id="8972" />
+			<item id="8973" />
+			<item id="8974" />
+			<item id="8975" />
+			<item id="8976" />
+			<item id="8977" />
+			<item id="8978" />
+			<item id="8979" />
+			<item id="9005" />
+			<item id="9006" />
+			<item id="9007" />
+			<item id="9014" />
+			<item id="9015" />
+			<item id="9016" />
+			<item id="9023" />
+			<item id="9024" />
+			<item id="9025" />
+			<item id="9026" />
+			<item id="9033" />
+			<item id="9034" />
+			<item id="9035" />
+			<item id="9036" />
+			<item id="9037" />
+			<item id="9038" />
+			<item id="9039" />
+			<item id="9040" />
+			<item id="9041" />
+			<item id="9043" />
+			<item id="9044" />
+			<item id="9045" />
+			<item id="9046" />
+			<item id="9047" />
+			<item id="9048" />
+			<item id="9050" />
+			<item id="9051" />
+			<item id="9052" />
+			<item id="9053" />
+			<item id="9054" />
+			<item id="9056" />
+			<item id="9057" />
+			<item id="9058" />
+			<item id="9062" />
+			<item id="9063" />
+			<item id="9064" />
+			<item id="9066" />
+			<item id="9067" />
+			<item id="9068" />
+			<item id="9069" />
+			<item id="10539" />
+			<item id="10540" />
+			<item id="10541" />
+			<item id="10542" />
+			<item id="10543" />
+			<item id="10544" />
+			<item id="10545" />
+			<item id="10546" />
+			<item id="10547" />
+			<item id="10548" />
+			<item id="10562" />
+			<item id="10563" />
+			<item id="10564" />
+			<item id="10565" />
+			<item id="10566" />
+			<item id="10567" />
+			<item id="10568" />
+			<item id="10569" />
+			<item id="10570" />
+			<item id="10571" />
+			<item id="10572" />
+			<item id="10573" />
+			<item id="10574" />
+			<item id="10607" />
+			<item id="10608" />
+			<item id="10609" />
+			<item id="10610" />
+			<item id="10611" />
+			<item id="10612" />
+			<item id="10613" />
+			<item id="10614" />
+			<item id="10615" />
+			<item id="10616" />
+			<item id="10617" />
+			<item id="10618" />
+			<item id="10632" />
+			<item id="10633" />
+			<item id="10634" />
+			<item id="10635" />
+			<item id="10636" />
+			<item id="10637" />
+			<item id="10638" />
+			<item id="10639" />
+			<item id="10640" />
+			<item id="10641" />
+			<item id="10642" />
+			<item id="10643" />
+			<item id="10834" />
+			<item id="10835" />
+			<item id="10836" />
+			<item id="10837" />
+			<item id="10838" />
+			<item id="10839" />
+			<item id="10970" />
+			<item id="10971" />
+			<item id="10972" />
+			<item id="10973" />
+			<item id="10974" />
+			<item id="10975" />
+			<item id="10976" />
+			<item id="10977" />
+			<item id="10978" />
+			<item id="10979" />
+			<item id="10980" />
+			<item id="10981" />
+			<item id="10993" />
+			<item id="10994" />
+			<item id="10995" />
+			<item id="10996" />
+			<item id="10997" />
+			<item id="10998" />
+			<item id="10999" />
+			<item id="11000" />
+			<item id="11001" />
+			<item id="11002" />
+			<item id="11003" />
+			<item id="11050" />
+			<item id="11051" />
+			<item id="11052" />
+			<item id="11053" />
+			<item id="11054" />
+			<item id="11055" />
+			<item id="11056" />
+			<item id="11057" />
+			<item id="11058" />
+			<item id="11059" />
+			<item id="11060" />
+			<item id="11061" />
+			<item id="11062" />
+			<item id="11020" />
+			<item id="11021" />
+			<item id="11022" />
+			<item id="11023" />
+			<item id="11024" />
+			<item id="11025" />
+			<item id="11026" />
+			<item id="11027" />
+			<item id="11028" />
+			<item id="11029" />
+			<item id="11030" />
+			<item id="11031" />
+			<item id="11032" />
+			<item id="11034" />
+			<item id="11035" />
+			<item id="11036" />
+			<item id="11037" />
+			<item id="11038" />
+			<item id="11039" />
+			<item id="11040" />
+			<item id="11041" />
+			<item id="11042" />
+			<item id="11043" />
+			<item id="11044" />
+			<item id="11045" />
+			<item id="11046" />
+			<item id="11047" />
+			<item id="11048" />
+			<item id="9780" />
+			<item id="9781" />
+			<item id="9782" />
+			<item id="9783" />
+			<item id="9784" />
+			<item id="9785" />
+			<item id="9786" />
+			<item id="9787" />
+			<item id="9788" />
+			<item id="9789" />
+			<item id="9790" />
+			<item id="9791" />
+			<item id="9793" />
+			<item id="9794" />
+			<item id="9795" />
+			<item id="9796" />
+			<item id="9797" />
+			<item id="9798" />
+			<item id="9799" />
+			<item id="9800" />
+			<item id="9801" />
+			<item id="9802" />
+			<item id="9803" />
+			<item id="9804" />
+			<item id="9807" />
+			<item id="9808" />
+			<item id="9809" />
+			<item id="9810" />
+			<item id="9811" />
+			<item id="9812" />
+			<item id="9813" />
+			<item id="9814" />
+			<item id="9815" />
+			<item id="9816" />
+			<item id="9817" />
+		</terrain>
+	</tileset>
+	<tileset name="Escadas">
+		<terrain>
+			<item id="430" />
+			<brush name="trapdoor ladder down" />
+			<brush name="wooden ladder hole" />
+			<brush name="trapdoor down" />
+			<brush name="stairs down" />
+			<item id="1386" />
+			<brush name="wooden ladder trapdoor" />
+			<brush name="wooden ladder hole 2" />
+			<brush name="wooden trapdoor" />
+			<brush name="stairs down 2" />
+			<item id="3678" />
+			<item id="3135" />
+			<item id="3136" />
+			<item id="3137" />
+			<item id="3138" />
+			<item id="1385" />
+			<brush name="white stone trapdoor" />
+			<brush name="white stone stairs" />
+			<brush name="gray stone trapdoor" />
+			<brush name="gray stone stairs" />
+			<item id="1387" />
+			<brush name="black stone trapdoor" />
+			<brush name="black stone stairs" />
+			<brush name="banuta stairs" />
+			<brush name="stone stairway (ground)" />
+			<item id="1397" />
+			<item id="476" />
+			<item id="479" />
+			<item id="475" />
+			<item id="480" />
+			<brush name="pyramid ramp" />
+			<brush name="pyramid corner" />
+			<brush name="sandstone ropespot" />
+			<brush name="open sandstone trapdoor" />
+			<brush name="sandstone trapdoor" />
+			<brush name="bamboo ramp" />
+			<item id="5809" />
+			<item id="5810" />
+			<item id="5836" />
+			<item id="5837" />
+			<item id="5838" />
+			<item id="5839" />
+			<item id="5851" />
+			<item id="5855" />
+			<item id="5856" />
+			<item id="5857" />
+			<item id="5860" />
+			<item id="5861" />
+			<item id="5887" />
+			<item id="5888" />
+			<item id="6779" />
+			<item id="6780" />
+			<item id="6782" />
+			<item id="6783" />
+			<item id="6784" />
+			<item id="6785" />
+			<item id="6786" />
+			<item id="6787" />
+			<item id="6788" />
+			<item id="6789" />
+			<item id="6790" />
+			<item id="6792" />
+			<item id="6793" />
+			<item id="6794" />
+			<item id="6795" />
+			<item id="6796" />
+			<item id="6797" />
+			<item id="6798" />
+			<item id="6799" />
+			<item id="6975" />
+			<item id="10261" />
+			<item id="10262" />
+			<item id="10263" />
+			<item id="10264" />
+			<item id="10265" />
+			<item id="10266" />
+			<item id="10267" />
+			<item id="10268" />
+		</terrain>
+	</tileset>
 	<tileset name="Town">
 		<terrain>
-			<item id="965"/>
-			<item id="966"/>
-			<brush name="white marble floor"/>
-			<brush name="black marble floor"/>
-			<item id="457"/>
-			<brush name="stone floor"/>
-			<brush name="gray stone tiles"/>
-			<brush name="dark tiled sandstone"/>
-			<brush name="tiled sandstone floor"/>
-			<brush name="elven wooden floor"/>
-			<brush name="light tiled stone floor"/>
-			<brush name="dark tiled stone floor"/>
-			<brush name="drab tiled stone floor"/>
-			<brush name="wooden floor"/>
-			<brush name="carlin wooden floor"/>
-			<brush name="orange tiled floor"/>
-			<brush name="magic tile"/>
-			<item id="280"/>
-			<brush name="dirt"/>
-			<item id="4832"/>
-			<item id="806"/>
-			<item id="4833"/>
-			<item id="804"/>
-			<brush name="white gravel"/>
-			<brush name="lawn"/>
-			<brush name="cobblestone"/>
-			<brush name="sandstone"/>
-			<brush name="dark sandstone"/>
-			<brush name="grassy cobblestone"/>
-			<brush name="drawbridge"/>
-			<brush name="dark wooden floor"/>
-			<brush name="banuta tiled floor"/>
-			<brush name="banuta floor"/>
-			<brush name="banuta pavement square"/>
-			<brush name="banuta pavement round"/>
-			<brush name="banuta decorated tiles"/>
-			<brush name="banuta lizard carvings"/>
-			<brush name="snake ornament samples"/>
-			<brush name="large lizard carvings"/>
-			<item id="416"/>
-			<item id="426"/>
-			<item id="446"/>
-			<item id="3216"/>
+			<item id="965" />
+			<item id="966" />
+			<brush name="white marble floor" />
+			<brush name="black marble floor" />
+			<item id="457" />
+			<brush name="stone floor" />
+			<brush name="gray stone tiles" />
+			<brush name="dark tiled sandstone" />
+			<brush name="tiled sandstone floor" />
+			<brush name="elven wooden floor" />
+			<brush name="light tiled stone floor" />
+			<brush name="dark tiled stone floor" />
+			<brush name="drab tiled stone floor" />
+			<brush name="wooden floor" />
+			<brush name="carlin wooden floor" />
+			<brush name="orange tiled floor" />
+			<brush name="magic tile" />
+			<item id="280" />
+			<brush name="dirt" />
+			<item id="4832" />
+			<item id="806" />
+			<item id="4833" />
+			<item id="804" />
+			<brush name="white gravel" />
+			<brush name="lawn" />
+			<brush name="cobblestone" />
+			<brush name="sandstone" />
+			<brush name="dark sandstone" />
+			<brush name="grassy cobblestone" />
+			<brush name="drawbridge" />
+			<brush name="dark wooden floor" />
+			<brush name="banuta tiled floor" />
+			<brush name="banuta floor" />
+			<brush name="banuta pavement square" />
+			<brush name="banuta pavement round" />
+			<brush name="banuta decorated tiles" />
+			<brush name="banuta lizard carvings" />
+			<brush name="snake ornament samples" />
+			<brush name="large lizard carvings" />
+			<item id="416" />
+			<item id="426" />
+			<item id="446" />
+			<item id="3216" />
 		</terrain>
 	</tileset>
 </materials>

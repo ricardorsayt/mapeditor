@@ -6758,7 +6758,1003 @@
 			</composite>
 		</alternate>
 	</brush>
-	<brush name="bamboo ramp" type="doodad" server_lookid="3686" draggable="false" on_blocking="true" one_size="true" redo_borders="true">
+
+	<brush name="ramp 22999 north" type="doodad" server_lookid="22999" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="22999" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="23000" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 23001 south" type="doodad" server_lookid="23001" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="23001" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="23002" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 23003 east" type="doodad" server_lookid="23003" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="23003" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="23004" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 23005 west" type="doodad" server_lookid="23005" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="23005" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="23006" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 23046 north" type="doodad" server_lookid="23046" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="23046" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="23047" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 23048 south" type="doodad" server_lookid="23048" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="23048" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="23049" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 23050 east" type="doodad" server_lookid="23050" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="23050" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="23051" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 23052 west" type="doodad" server_lookid="23052" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="23052" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="23053" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 6782 east" type="doodad" server_lookid="6782" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="6782" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="6783" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 6784 west" type="doodad" server_lookid="6784" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="6784" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="6785" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 6786 south" type="doodad" server_lookid="6786" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="6786" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="6787" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 6788 north" type="doodad" server_lookid="6788" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="6788" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="6789" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 25637 north" type="doodad" server_lookid="25637" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="25637" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="25638" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 25639 west" type="doodad" server_lookid="25639" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="25639" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="25640" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 26848 south" type="doodad" server_lookid="26848" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="26848" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="26846" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+<brush name="ramp 27995 south" type="doodad" server_lookid="27995" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="27995" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="28001" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 27996 south" type="doodad" server_lookid="27996" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="27996" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="28002" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 27997 south" type="doodad" server_lookid="27997" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="27997" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="28003" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 27998 south" type="doodad" server_lookid="27998" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="27998" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="28004" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 27999 south" type="doodad" server_lookid="27999" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="27999" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="28005" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 28006 east" type="doodad" server_lookid="28006" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="28006" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="28012" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 28007 east" type="doodad" server_lookid="28007" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="28007" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="28013" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 28008 east" type="doodad" server_lookid="28008" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="28008" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="28014" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 28009 east" type="doodad" server_lookid="28009" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="28009" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="28015" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 28010 east" type="doodad" server_lookid="28010" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="28010" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="28016" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 26847 east" type="doodad" server_lookid="26847" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="26847" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="26849" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 6792 east" type="doodad" server_lookid="6792" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="6792" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="6793" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 6794 west" type="doodad" server_lookid="6794" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="6794" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="6795" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 6796 south" type="doodad" server_lookid="6796" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="6796" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="6797" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 6798 north" type="doodad" server_lookid="6798" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="6798" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="6799" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 29505 south" type="doodad" server_lookid="29505" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="29505" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="29506" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 29508 east" type="doodad" server_lookid="29508" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="29508" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="29509" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 30617 east" type="doodad" server_lookid="30617" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="30617" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="30616" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 30618 south" type="doodad" server_lookid="30618" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="30618" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="30672" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 30983 south" type="doodad" server_lookid="30983" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="30983" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="30985" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 30984 east" type="doodad" server_lookid="30984" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="30984" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="30986" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 31557 east" type="doodad" server_lookid="31557" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="31557" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="31556" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 31558 south" type="doodad" server_lookid="31558" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="31558" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="31559" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 31570 south" type="doodad" server_lookid="31570" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="31570" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="31574" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 31571 north" type="doodad" server_lookid="31571" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="31571" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="31575" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 31572 west" type="doodad" server_lookid="31572" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="31572" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="31576" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 31573 east" type="doodad" server_lookid="31573" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="31573" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="31577" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 33222 north" type="doodad" server_lookid="33222" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="33222" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="33220" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 33223 east" type="doodad" server_lookid="33223" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="33223" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="33221" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 33224 west" type="doodad" server_lookid="33224" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="33224" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="33226" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 33225 south" type="doodad" server_lookid="33225" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="33225" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="33227" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 36502 east" type="doodad" server_lookid="36502" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="36502" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="36503" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 36619 south" type="doodad" server_lookid="36619" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="36619" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="36620" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 36884 south" type="doodad" server_lookid="36884" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="36884" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="36885" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 39936 north" type="doodad" server_lookid="39936" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="39936" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="39932" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 39937 south" type="doodad" server_lookid="39937" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="39937" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="39933" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 39938 east" type="doodad" server_lookid="39938" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="39938" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="39935" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 39939 west" type="doodad" server_lookid="39939" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="39939" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="39934" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 40682 west" type="doodad" server_lookid="40682" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="40682" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="40687" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 40683 east" type="doodad" server_lookid="40683" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="40683" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="40686" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 40684 south" type="doodad" server_lookid="40684" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="40684" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="40688" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 40685 north" type="doodad" server_lookid="40685" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="40685" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="40689" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+
+	<brush name="ramp 9999 east" type="doodad" server_lookid="10000" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="9999" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="-1" y="0">
+					<item id="10000" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 10001 west" type="doodad" server_lookid="10002" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="10001" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="1" y="0">
+					<item id="10002" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 10003 north" type="doodad" server_lookid="10004" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="10003" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="10004" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+	<brush name="ramp 10005 south" type="doodad" server_lookid="10006" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="10005" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="-1">
+					<item id="10006" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+
+<brush name="ramp north south" type="doodad" server_lookid="10006" draggable="true" on_blocking="false" one_size="true" redo_borders="true">
+		<alternate>
+			<composite chance="10">
+				<tile x="0" y="0">
+					<item id="10005" />
+				</tile>
+				<tile x="0" y="0" z="-1">
+					<item id="459" />
+				</tile>
+				<tile x="0" y="1">
+					<item id="10006" />
+				</tile>
+			</composite>
+		</alternate>
+	</brush>
+
+
+<brush name="bamboo ramp" type="doodad" server_lookid="3686" draggable="false" on_blocking="true" one_size="true" redo_borders="true">
 		<alternate>
 			<composite chance="10">
 				<tile x="0" y="0">

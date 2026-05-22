@@ -1,0 +1,29 @@
+RAW MASTER v1.2 - Triagem de Others / Soltos
+
+Base: v13 RAW MASTER v1.1 identificada
+Objetivo desta revisao:
+- Ler a categoria residual de sobras ('Revisao / Soltos')
+- Cruzar os IDs com os nomes reais do items.xml
+- Mover apenas os itens identificados com seguranca para categorias ja existentes da Raw
+- Deixar no bloco de revisao somente o que ainda nao esta 100% claro
+
+Itens movidos com seguranca:
+- Para Pisos: dirt floor, muddy floor, sandstone floor, sand, shallow water
+- Para Escadas / Buracos / Rampas: stairs e small hole
+- Para Montanhas / Rochas de Canyon: mountain e stone
+- Para Exterior / Pocos / Cemiterio / Altares: wooden coffin, stone coffin, sarcophagus
+- Para Campos Magicos / Efeitos: fire, searing fire, ashes
+- Para Arquitetura / Cercas / Colunas: ominous pillar
+- Para Natureza / Rochas / Arvores: bananapalm, honeyflower patch, dead tree, plum tree, firtree, witches mushrooms
+- Para Corpos: dead dragon, dead human, pile of bones
+- Para Interior - Cadeiras / Armarios / Decoracao: drawers e bookcase
+- Para Especiais / Mecanismos / Helpers: lever
+- Para Estatuas / Monumentos / Ornamentos: cobra statue, torch bearer
+- Para Pontes / Corrimoes: drawbridge
+
+Mantido em revisao por cautela:
+- 4844 giant footprint
+
+Observacao:
+- Nao movi itens ambiguos de 'Containers / Moveis / Miscelanea' nesta fase para evitar classificacao errada.
+- Esta etapa foi focada apenas no equivalente pratico de 'Others', hoje representado sobretudo por 'Revisao / Soltos'.

@@ -16,7 +16,12 @@
 			<brush name="cave small hole" />
 			<brush name="cave pickhole" />
 		</terrain>
-	</tileset>
+	
+
+
+
+
+</tileset>
 	<tileset name="Natureza">
 		<terrain>
 			<brush name="sea" />
@@ -25,6 +30,24 @@
 			<brush name="dark swamp" />
 			<brush name="tar pit" />
 			<brush name="mountain" />
+			<brush name="ice mountain auto" />
+			<brush name="mountain pattern 2 auto" />
+			<brush name="mountain pattern 3 auto" />
+			<brush name="mountain pattern 4 auto" />
+			<brush name="mountain pattern 5 auto" />
+			<brush name="mountain pattern 6 auto" />
+			<brush name="mountain pattern 7 auto" />
+			<brush name="mountain pattern 8 auto" />
+			<brush name="mountain pattern 9 auto" />
+			<brush name="mountain pattern 10 auto" />
+			<brush name="mountain pattern 11 auto" />
+			<brush name="mountain pattern 12 auto" />
+			<brush name="mountain pattern 13 auto" />
+			<brush name="mountain pattern 14 auto" />
+			<brush name="mountain pattern 15 auto" />
+			<brush name="mountain pattern 16 auto" />
+			<brush name="mountain pattern 17 auto" />
+			<brush name="mountain pattern 18 auto" />
 			<brush name="mountain ground" />
 			<brush name="mountain top ground" />
 			<brush name="rocky ground" />
@@ -500,6 +523,67 @@
 			<brush name="open sandstone trapdoor" />
 			<brush name="sandstone trapdoor" />
 			<brush name="bamboo ramp" />
+			<brush name="ramp 22999 north" />
+			<brush name="ramp 23001 south" />
+			<brush name="ramp 23003 east" />
+			<brush name="ramp 23005 west" />
+			<brush name="ramp 23046 north" />
+			<brush name="ramp 23048 south" />
+			<brush name="ramp 23050 east" />
+			<brush name="ramp 23052 west" />
+			<brush name="ramp 6782 east" />
+			<brush name="ramp 6784 west" />
+			<brush name="ramp 6786 south" />
+			<brush name="ramp 6788 north" />
+			<brush name="ramp 25637 north" />
+			<brush name="ramp 25639 west" />
+			<brush name="ramp 26848 south" />
+			<brush name="ramp 27995 south" />
+			<brush name="ramp 27996 south" />
+			<brush name="ramp 27997 south" />
+			<brush name="ramp 27998 south" />
+			<brush name="ramp 27999 south" />
+			<brush name="ramp 28006 east" />
+			<brush name="ramp 28007 east" />
+			<brush name="ramp 28008 east" />
+			<brush name="ramp 28009 east" />
+			<brush name="ramp 28010 east" />
+			<brush name="ramp 26847 east" />
+			<brush name="ramp 6792 east" />
+			<brush name="ramp 6794 west" />
+			<brush name="ramp 6796 south" />
+			<brush name="ramp 6798 north" />
+			<brush name="ramp 29505 south" />
+			<brush name="ramp 29508 east" />
+			<brush name="ramp 30617 east" />
+			<brush name="ramp 30618 south" />
+			<brush name="ramp 30983 south" />
+			<brush name="ramp 30984 east" />
+			<brush name="ramp 31557 east" />
+			<brush name="ramp 31558 south" />
+			<brush name="ramp 31570 south" />
+			<brush name="ramp 31571 north" />
+			<brush name="ramp 31572 west" />
+			<brush name="ramp 31573 east" />
+			<brush name="ramp 33222 north" />
+			<brush name="ramp 33223 east" />
+			<brush name="ramp 33224 west" />
+			<brush name="ramp 33225 south" />
+			<brush name="ramp 36502 east" />
+			<brush name="ramp 36619 south" />
+			<brush name="ramp 36884 south" />
+			<brush name="ramp 39936 north" />
+			<brush name="ramp 39937 south" />
+			<brush name="ramp 39938 east" />
+			<brush name="ramp 39939 west" />
+			<brush name="ramp 40682 west" />
+			<brush name="ramp 40683 east" />
+			<brush name="ramp 40684 south" />
+			<brush name="ramp 40685 north" />
+			<brush name="ramp 9999 east" />
+			<brush name="ramp 10001 west" />
+			<brush name="ramp 10003 north" />
+			<brush name="ramp 10005 south" />
 			<item id="5809" />
 			<item id="5810" />
 			<item id="5836" />
@@ -516,23 +600,7 @@
 			<item id="5888" />
 			<item id="6779" />
 			<item id="6780" />
-			<item id="6782" />
-			<item id="6783" />
-			<item id="6784" />
-			<item id="6785" />
-			<item id="6786" />
-			<item id="6787" />
-			<item id="6788" />
-			<item id="6789" />
 			<item id="6790" />
-			<item id="6792" />
-			<item id="6793" />
-			<item id="6794" />
-			<item id="6795" />
-			<item id="6796" />
-			<item id="6797" />
-			<item id="6798" />
-			<item id="6799" />
 			<item id="6975" />
 			<item id="10261" />
 			<item id="10262" />
@@ -544,6 +612,13 @@
 			<item id="10268" />
 		</terrain>
 	</tileset>
+	<tileset name="Corpo">
+		<terrain>
+		</terrain>
+	
+			<item id="31553" />
+			<item id="31554" />
+			<item id="31555" /></tileset>
 	<tileset name="Town">
 		<terrain>
 			<item id="965" />

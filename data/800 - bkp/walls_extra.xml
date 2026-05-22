@@ -541,7 +541,69 @@
 		</alternate>
 	</brush>
 
-	<tileset name="Walls - Archways">
+	<brush name="merged wall archway 10944" type="doodad" server_lookid="10944" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10944" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall archway 10945" type="doodad" server_lookid="10945" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10945" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall archway 10947" type="doodad" server_lookid="10947" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10947" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall archway 10964" type="doodad" server_lookid="10964" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10964" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall archway 10965" type="doodad" server_lookid="10965" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10965" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall archway 10967" type="doodad" server_lookid="10967" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10967" chance="100"/>
+		</alternate>
+	</brush>
+
+	<brush name="merged wall detail 10956" type="doodad" server_lookid="10956" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10956" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall detail 10957" type="doodad" server_lookid="10957" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10957" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall detail 10958" type="doodad" server_lookid="10958" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10958" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall detail 10959" type="doodad" server_lookid="10959" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10959" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall detail 10960" type="doodad" server_lookid="10960" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10960" chance="100"/>
+		</alternate>
+	</brush>
+	<brush name="merged wall detail 10961" type="doodad" server_lookid="10961" draggable="true" on_blocking="true" thickness="100/100">
+		<alternate>
+			<item id="10961" chance="100"/>
+		</alternate>
+	</brush>
+
+	<tileset name="Parede - Arcos">
 		<terrain>
 			<brush name="mountain wall archway"/>
 			<brush name="brick wall archway"/>
@@ -558,10 +620,17 @@
 			<brush name="banuta archway"/>
 			<brush name="banuta archway small"/>
 			<brush name="leaf wall archway"/>
-		</terrain>
+			<brush name="merged wall archway 10944"/>
+			<brush name="merged wall archway 10945"/>
+			<brush name="merged wall archway 10947"/>
+			<brush name="merged wall archway 10964"/>
+			<brush name="merged wall archway 10965"/>
+			<brush name="merged wall archway 10967"/>
+					<item fromid="10208" toid="10219" chance="100"/>
+</terrain>
 	</tileset>
 
-	<tileset name="Walls - Details">
+	<tileset name="Parede - Janelas">
 		<terrain>
 			<brush name="marble window 1"/>
 			<brush name="marble window 2"/>
@@ -604,6 +673,12 @@
 			<brush name="wall carving medusa"/>
 			<brush name="wall carving lizard"/>
 			<brush name="wall carving footprint"/>
+			<brush name="merged wall detail 10956"/>
+			<brush name="merged wall detail 10957"/>
+			<brush name="merged wall detail 10958"/>
+			<brush name="merged wall detail 10959"/>
+			<brush name="merged wall detail 10960"/>
+			<brush name="merged wall detail 10961"/>
 		</terrain>
 	</tileset>
 </materials>

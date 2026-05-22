@@ -1,0 +1,10 @@
+LOG_CORRECOES_v49.txt
+
+Correções/interpretacoes aplicadas:
+- 19745-19748 = Crossbow / Bow (confirmado pelo usuario).
+- 1907,19074,19077 corpo foi interpretado como 19071, 19074, 19077 = Corpo.
+- 20362 parede20363 ate 20365 hole foi separado como 20362 = Parede e 20363-20365 = Hole / Rope Spot / Escadas / Buraco.
+- 20801 ate 20892 borda foi interpretado como 20881-20892 = Bordas, seguindo a sequência 20867 piso, 20868-20879 borda, 20880 piso, 20893 piso, 20894-20905 borda.
+- 18990 apareceu em Corpo e depois em Sword/Axe/Club; ficou em Axe / Sword / Club pela prioridade do destino específico posterior.
+- IDs dentro de blocos grandes de Cenario foram sobrepostos por destinos específicos quando indicados depois, como 19063-19064, 19067, 19068, 19071, 19074, 19077 etc.
+- Corrigido pós-verificação: 19088 = Decoração Interna; 19089-19090 = Decoração Externa; 20373-20374 = Piso; 18990 = Axe / Sword / Club.

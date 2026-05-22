@@ -1,0 +1,24 @@
+Resumo da varredura de faltantes da Raw Palette
+Base: v31
+
+IDs enviados automaticamente para categorias ja existentes na Raw:
+- Axe / Sword / Club: 187 itens
+- Backpack / Bag: 297 itens
+- Bonecos: 11 itens
+- Crossbow / Bow: 27 itens
+- Decoração Externa: 1 itens
+- Decoração Interna: 97 itens
+- Documento: 27 itens
+- Fonte de Luz: 29 itens
+- Food: 99 itens
+- Item Festivo: 47 itens
+- Livro: 63 itens
+- Lixo: 91 itens
+- Nature / Arvore / Flor / Planta: 9 itens
+- Pilar / Poste / Lâmpada: 6 itens
+- Rod / Wand: 31 itens
+- Runa: 114 itens
+- Scroll: 12 itens
+
+IDs mantidos em Revisao Geral: 986
+A Revisao Geral contem apenas itens presentes em Item Palette/Doodad que ainda nao apareciam na Raw e nao tinham destino obvio em categoria ja existente.

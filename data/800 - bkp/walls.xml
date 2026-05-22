@@ -1842,7 +1842,7 @@
 		</alternate>
 	</brush>
 	
-	<tileset name="Walls">
+	<tileset name="Parede">
 		<terrain>
 			<brush name="mountain wall"/>
 			<brush name="brick wall"/>

@@ -1,0 +1,12 @@
+LOG_CORRECOES_v50_REAL.txt
+
+Correções/interpretações aplicadas nesta rodada:
+- 19745-19748 foi tratado como Bow / Crossbow conforme confirmação do usuário.
+- 1907,19074,19077 corpo foi tratado como 19071,19074,19077 corpo.
+- 20362 parede20363 ate 20365 hole foi separado como 20362 = Parede e 20363-20365 = Hole/Escada/Buraco.
+- 20801 ate 20892 borda foi tratado como 20881-20892 Bordas, seguindo a sequência 20880 piso / 20893 piso.
+- 21168 21170 pilar foi tratado como 21168-21170 Pilar / Poste / Lâmpada.
+- 21891ate 21904 piso foi tratado como 21891-21904 Piso.
+- 21952 e 21993 decoração natureza foi tratado como 21952-21993 Decoração Natureza pelo contexto sequencial.
+- 18990 apareceu em conflito entre corpo e sword/club; foi mantido em Axe / Sword / Club por estar no bloco 18990-18992 de armas.
+- Quando um ID estava dentro de um bloco geral e também tinha destino específico, o destino específico foi aplicado.
