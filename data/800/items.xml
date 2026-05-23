@@ -177225,19 +177225,19 @@
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
 	</item>
-	<item id="29505" article="a" name="ramp">
+	<item id="29505" name="unknown ground">
 		<attribute key="clientid" value="29699" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="29506" article="a" name="ramp">
+	<item id="29506" name="unknown ground">
 		<attribute key="clientid" value="29700" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
+		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
 	<item id="29507" name="unknown ground">
 		<attribute key="clientid" value="29701" />
@@ -177246,19 +177246,19 @@
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
 	</item>
-	<item id="29508" article="a" name="ramp">
+	<item id="29508" name="unknown ground">
 		<attribute key="clientid" value="29702" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="29509" article="a" name="ramp">
+	<item id="29509" name="unknown ground">
 		<attribute key="clientid" value="29703" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
+		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
 	<item id="29510" name="unknown ground">
 		<attribute key="clientid" value="29704" />
@@ -181141,28 +181141,12 @@
 		<attribute key="clientid" value="30808" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
 	<item id="30615" name="unknown ground">
 		<attribute key="clientid" value="30809" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
-	<item id="30616" article="a" name="ramp">
-		<attribute key="clientid" value="30810" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="30617" article="a" name="ramp">
-		<attribute key="clientid" value="30811" />
-		<attribute key="blockpathfind" value="true" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="30618" article="a" name="ramp">
-		<attribute key="clientid" value="30812" />
-		<attribute key="blockpathfind" value="true" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
+	<item id="30616" name="unknown ground">
+		<attribute key="clientid" value="30810" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="30617" name="unknown ground">
+		<attribute key="clientid" value="30811" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="30618" name="unknown ground">
+		<attribute key="clientid" value="30812" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
 	<item id="30619" name="unknown ground">
 		<attribute key="clientid" value="30813" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
 	<item id="30620" name="unknown ground">
@@ -181382,12 +181366,8 @@
 		<attribute key="clientid" value="30864" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
 	<item id="30671" name="decoration">
 		<attribute key="clientid" value="30865" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
-	<item id="30672" article="a" name="ramp">
-		<attribute key="clientid" value="30866" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
+	<item id="30672" name="unknown ground">
+		<attribute key="clientid" value="30866" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
 	<item id="30673" name="unknown stackable item">
 		<attribute key="clientid" value="30867" />
 		<attribute key="pickupable" value="true" />
@@ -182307,33 +182287,33 @@
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
 	</item>
-	<item id="30983" article="a" name="ramp">
+	<item id="30983" name="unknown ground">
 		<attribute key="clientid" value="31177" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="30984" article="a" name="ramp">
+	<item id="30984" name="unknown ground">
 		<attribute key="clientid" value="31178" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="30985" article="a" name="ramp">
+	<item id="30985" name="unknown ground">
 		<attribute key="clientid" value="31179" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
+		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="30986" article="a" name="ramp">
+	<item id="30986" name="unknown ground">
 		<attribute key="clientid" value="31180" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
+		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
 	<item id="30987" name="unknown ground">
 		<attribute key="clientid" value="31181" />
@@ -184544,33 +184524,33 @@
 		<attribute key="weight" value="0" />
 		<attribute key="fluidsource" value="blood" />
 	</item>
-	<item id="31556" article="a" name="ramp">
+	<item id="31556" name="unknown ground">
 		<attribute key="clientid" value="31750" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
+		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31557" article="a" name="ramp">
+	<item id="31557" name="unknown ground">
 		<attribute key="clientid" value="31751" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31558" article="a" name="ramp">
+	<item id="31558" name="unknown ground">
 		<attribute key="clientid" value="31752" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31559" article="a" name="ramp">
+	<item id="31559" name="unknown ground">
 		<attribute key="clientid" value="31753" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
+		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
 	<item id="31560" name="unknown ground">
 		<attribute key="clientid" value="31754" />
@@ -184638,57 +184618,53 @@
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31570" article="a" name="ramp">
+	<item id="31570" name="unknown ground">
 		<attribute key="clientid" value="31764" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31571" article="a" name="ramp">
+	<item id="31571" name="unknown ground">
 		<attribute key="clientid" value="31765" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="north" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31572" article="a" name="ramp">
+	<item id="31572" name="unknown ground">
 		<attribute key="clientid" value="31766" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="east" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31573" article="a" name="ramp">
+	<item id="31573" name="unknown ground">
 		<attribute key="clientid" value="31767" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31574" article="a" name="ramp">
+	<item id="31574" name="decoration">
 		<attribute key="clientid" value="31768" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31575" article="a" name="ramp">
+	<item id="31575" name="decoration">
 		<attribute key="clientid" value="31769" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31576" article="a" name="ramp">
+	<item id="31576" name="decoration">
 		<attribute key="clientid" value="31770" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="31577" article="a" name="ramp">
+	<item id="31577" name="decoration">
 		<attribute key="clientid" value="31771" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
@@ -191372,62 +191348,22 @@
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="33220" article="a" name="ramp">
-		<attribute key="clientid" value="33414" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="33221" article="a" name="ramp">
-		<attribute key="clientid" value="33415" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="33222" article="a" name="ramp">
-		<attribute key="clientid" value="33416" />
-		<attribute key="blockpathfind" value="true" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="north" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="33223" article="a" name="ramp">
-		<attribute key="clientid" value="33417" />
-		<attribute key="blockpathfind" value="true" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="33224" article="a" name="ramp">
-		<attribute key="clientid" value="33418" />
-		<attribute key="blockpathfind" value="true" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="east" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="33225" article="a" name="ramp">
-		<attribute key="clientid" value="33419" />
-		<attribute key="blockpathfind" value="true" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="33226" article="a" name="ramp">
-		<attribute key="clientid" value="33420" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="33227" article="a" name="ramp">
-		<attribute key="clientid" value="33421" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
+	<item id="33220" name="decoration">
+		<attribute key="clientid" value="33414" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="33221" name="decoration">
+		<attribute key="clientid" value="33415" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="33222" name="unknown ground">
+		<attribute key="clientid" value="33416" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="33223" name="unknown ground">
+		<attribute key="clientid" value="33417" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="33224" name="unknown ground">
+		<attribute key="clientid" value="33418" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="33225" name="unknown ground">
+		<attribute key="clientid" value="33419" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="33226" name="decoration">
+		<attribute key="clientid" value="33420" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
+	<item id="33227" name="decoration">
+		<attribute key="clientid" value="33421" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
 	<item id="33228" name="unknown wall">
 		<attribute key="clientid" value="33422" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
 	<item id="33229" name="unknown wall">
@@ -204486,19 +204422,18 @@
 		<attribute key="clientid" value="36695" />
 		<attribute key="blocking" value="true" />
 	</item>
-	<item id="36502" article="a" name="ramp">
+	<item id="36502" name="unknown ground">
 		<attribute key="clientid" value="36696" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="36503" article="a" name="ramp">
+	<item id="36503" name="unknown ground">
 		<attribute key="clientid" value="36697" />
+		<attribute key="group" value="ground" />
+		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
 	<item id="36504" name="unknown ground">
 		<attribute key="clientid" value="36698" />
@@ -204825,19 +204760,18 @@
 		<attribute key="clientid" value="36811" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
 	<item id="36618" name="decoration">
 		<attribute key="clientid" value="36812" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
-	<item id="36619" article="a" name="ramp">
+	<item id="36619" name="unknown ground">
 		<attribute key="clientid" value="36813" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="36620" article="a" name="ramp">
+	<item id="36620" name="unknown ground">
 		<attribute key="clientid" value="36814" />
+		<attribute key="group" value="ground" />
+		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
 	<item id="36621" name="unknown ground">
 		<attribute key="clientid" value="36815" />
@@ -205701,19 +205635,17 @@
 		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 	</item>
-	<item id="36884" article="a" name="ramp">
+	<item id="36884" name="unknown ground">
 		<attribute key="clientid" value="37078" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
+		<attribute key="blockpathfind" value="true" />
+	</item>
+	<item id="36885" name="unknown ground">
+		<attribute key="clientid" value="37079" />
+		<attribute key="group" value="ground" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
-	</item>
-	<item id="36885" article="a" name="ramp">
-		<attribute key="clientid" value="37079" />
-		<attribute key="hasheight" value="true" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
 	<item id="36886" name="unknown ground">
 		<attribute key="clientid" value="37080" /><attribute key="alwaysontop" value="true" /><attribute key="alwaysontoporder" value="2" /></item>
@@ -220096,61 +220028,57 @@
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="39932" article="a" name="ramp">
+	<item id="39932" name="decoration">
 		<attribute key="clientid" value="40126" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="39933" article="a" name="ramp">
+	<item id="39933" name="decoration">
 		<attribute key="clientid" value="40127" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="39934" article="a" name="ramp">
+	<item id="39934" name="decoration">
 		<attribute key="clientid" value="40128" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="39935" article="a" name="ramp">
+	<item id="39935" name="decoration">
 		<attribute key="clientid" value="40129" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="39936" article="a" name="ramp">
+	<item id="39936" name="unknown ground">
 		<attribute key="clientid" value="40130" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="north" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="39937" article="a" name="ramp">
+	<item id="39937" name="unknown ground">
 		<attribute key="clientid" value="40131" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="39938" article="a" name="ramp">
+	<item id="39938" name="unknown ground">
 		<attribute key="clientid" value="40132" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="39939" article="a" name="ramp">
+	<item id="39939" name="unknown ground">
 		<attribute key="clientid" value="40133" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="east" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
 	<item id="39940" name="unknown item">
 		<attribute key="clientid" value="40134" />
@@ -222300,57 +222228,53 @@
 		<attribute key="weight" value="0" />
 		<attribute key="fluidsource" value="blood" />
 	</item>
-	<item id="40682" article="a" name="ramp">
+	<item id="40682" name="unknown ground">
 		<attribute key="clientid" value="40876" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="east" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="40683" article="a" name="ramp">
+	<item id="40683" name="unknown ground">
 		<attribute key="clientid" value="40877" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="west" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="40684" article="a" name="ramp">
+	<item id="40684" name="unknown ground">
 		<attribute key="clientid" value="40878" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="south" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="40685" article="a" name="ramp">
+	<item id="40685" name="unknown ground">
 		<attribute key="clientid" value="40879" />
+		<attribute key="group" value="ground" />
+		<attribute key="walkspeed" value="37" />
 		<attribute key="blockpathfind" value="true" />
 		<attribute key="hasheight" value="true" />
-		<attribute key="floorchange" value="north" />
-		<attribute key="alwaysontop" value="true" />
-		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="40686" article="a" name="ramp">
+	<item id="40686" name="decoration">
 		<attribute key="clientid" value="40880" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="40687" article="a" name="ramp">
+	<item id="40687" name="decoration">
 		<attribute key="clientid" value="40881" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="40688" article="a" name="ramp">
+	<item id="40688" name="decoration">
 		<attribute key="clientid" value="40882" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />
 		<attribute key="alwaysontoporder" value="2" />
 	</item>
-	<item id="40689" article="a" name="ramp">
+	<item id="40689" name="decoration">
 		<attribute key="clientid" value="40883" />
 		<attribute key="hasheight" value="true" />
 		<attribute key="alwaysontop" value="true" />

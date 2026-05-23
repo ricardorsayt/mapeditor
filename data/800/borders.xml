@@ -966,4 +966,19 @@
 		<borderitem edge="cse" item="37730"/>
 		<borderitem edge="csw" item="37735"/>
 	</border>
+	<!-- ice floor border test 8949 - corrected inverted outer border -->
+	<border id="74">
+		<borderitem edge="s" item="8934"/>
+		<borderitem edge="n" item="8947"/>
+		<borderitem edge="w" item="8943"/>
+		<borderitem edge="e" item="8939"/>
+		<borderitem edge="dnw" item="8945"/>
+		<borderitem edge="dne" item="8944"/>
+		<borderitem edge="dsw" item="8938"/>
+		<borderitem edge="dse" item="8936"/>
+		<borderitem edge="cne" item="8946"/>
+		<borderitem edge="cnw" item="8948"/>
+		<borderitem edge="cse" item="8933"/>
+		<borderitem edge="csw" item="8935"/>
+	</border>
 </materials>

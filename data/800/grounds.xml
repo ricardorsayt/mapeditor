@@ -5,6 +5,20 @@
 		<item id="100" chance="10"/>
 	</brush>
 
+	<brush name="ice floor border 8949 auto" type="ground" server_lookid="8949" z-order="5505">
+		<item id="8949" chance="80"/>
+		<item id="8950" chance="10"/>
+		<item id="8951" chance="10"/>
+		<item id="8952" chance="10"/>
+		<item id="8953" chance="10"/>
+		<item id="8940" chance="4"/>
+		<item id="8941" chance="4"/>
+		<item id="8942" chance="4"/>
+
+		<border align="outer" id="74"/>
+	</brush>
+
+
 	<brush name="grass" type="ground" server_lookid="4526" z-order="3500">
 		<item id="4526" chance="50"/>
 		<item id="4527" chance="15"/>

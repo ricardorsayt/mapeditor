@@ -62,6 +62,7 @@
 			<brush name="light dirt" />
 			<brush name="snow" />
 			<brush name="ice" />
+			<brush name="ice floor border 8949 auto" />
 			<brush name="dry earth" />
 			<brush name="sand" />
 			<brush name="sand closed stone pile" />
@@ -109,6 +110,7 @@
 			<brush name="walkable sea" />
 			<brush name="snow" />
 			<brush name="ice" />
+			<brush name="ice floor border 8949 auto" />
 			<brush name="ramp" />
 			<brush name="mountain" />
 			<brush name="mountain ground" />
@@ -553,33 +555,6 @@
 			<brush name="ramp 6794 west" />
 			<brush name="ramp 6796 south" />
 			<brush name="ramp 6798 north" />
-			<brush name="ramp 29505 south" />
-			<brush name="ramp 29508 east" />
-			<brush name="ramp 30617 east" />
-			<brush name="ramp 30618 south" />
-			<brush name="ramp 30983 south" />
-			<brush name="ramp 30984 east" />
-			<brush name="ramp 31557 east" />
-			<brush name="ramp 31558 south" />
-			<brush name="ramp 31570 south" />
-			<brush name="ramp 31571 north" />
-			<brush name="ramp 31572 west" />
-			<brush name="ramp 31573 east" />
-			<brush name="ramp 33222 north" />
-			<brush name="ramp 33223 east" />
-			<brush name="ramp 33224 west" />
-			<brush name="ramp 33225 south" />
-			<brush name="ramp 36502 east" />
-			<brush name="ramp 36619 south" />
-			<brush name="ramp 36884 south" />
-			<brush name="ramp 39936 north" />
-			<brush name="ramp 39937 south" />
-			<brush name="ramp 39938 east" />
-			<brush name="ramp 39939 west" />
-			<brush name="ramp 40682 west" />
-			<brush name="ramp 40683 east" />
-			<brush name="ramp 40684 south" />
-			<brush name="ramp 40685 north" />
 			<brush name="ramp 9999 east" />
 			<brush name="ramp 10001 west" />
 			<brush name="ramp 10003 north" />
@@ -612,13 +587,6 @@
 			<item id="10268" />
 		</terrain>
 	</tileset>
-	<tileset name="Corpo">
-		<terrain>
-		</terrain>
-	
-			<item id="31553" />
-			<item id="31554" />
-			<item id="31555" /></tileset>
 	<tileset name="Town">
 		<terrain>
 			<item id="965" />
